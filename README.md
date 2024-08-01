@@ -1,7 +1,7 @@
 # tutorial-node-classification (WIP)
 Tutorial on node classification in networks
 
-## Table of contents
+## Learning goals
 
 * Understand the task of node classification in networks
 * Learn how to prepare network data for node classification tasks
