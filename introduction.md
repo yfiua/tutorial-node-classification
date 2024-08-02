@@ -24,3 +24,11 @@ In node classification tasks, the goal is to predict labels for nodes within a n
 Nodes and edges may have associated features that provide additional information. The labels of nodes are influenced not only by their own features but also by the features and labels of their neighbors. Thus, the classification model must leverage the network structure to make predictions.
 
 ## Models
+Common models for node classification include:
+
+* Label Propagation: A simpler method where labels spread through the network.
+* Traditional Methods: Such as the Harmonic Function method in NetworkX.
+* Node Embedding Techniques: Methods like DeepWalk, Node2Vec, and GraphSAGE to learn node representations.
+* Graph Neural Networks (GNNs): Deep learning models that leverage the graph structure.
+
+In this tutorial we will cover the traditional methods in NetworkX as well as deep learning models (GNNs).
