@@ -20,12 +20,26 @@
 
 ## Target audience
 
-This tutorial is aimed at social scientists with some knowledge in Python and supervised machine learning.
+This tutorial is aimed at social scientists and data scientists who are interested in analyzing network data. The tutorial is suitable for beginners and intermediate learners
+with some knowledge in Python and supervised machine learning, such as classification tasks.
+
+## Social science use cases
+
+Node classification is a common task in social network analysis, aiming to predict the labels of nodes within a network using its structure and properties. Node classification is essential in various applications in computational social science, including social network analysis, role analysis, and trust analysis.
+For example, in a citation network, we can classify research papers into different research fields. In a social network, we can classify users into different groups based on their social interactions.
+
+## Estimated duration
+
+The tutorial is designed to be completed in 4-5 hours. The duration may vary depending on the prior knowledge of the participants.
+The exercises are optional and can be done after the tutorial, which may take 2-3 hours.
+The entire content can be covered in a full-day workshop.
 
 ## Setting up the computational environment
 
 ### Hardware
-For the deep learning part, it is recommended to have a GPU which will make the computation much faster.
+The tutorial can be run on a laptop or desktop computer.
+A CPU is sufficient for completing the content in the tutorial and exercises.
+For large datasets and deep learning models, a GPU is recommended.
 
 ### Software
 Python >= 3.9 is required. In addition, the necessary packages are listed in [requirements.txt](requirements.txt). Using `pip` as an example, install the packages with
