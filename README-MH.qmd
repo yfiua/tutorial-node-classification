@@ -63,9 +63,6 @@ Run `prep.sh` to download some datasets that are used in the tutorial. Alternati
 ./prep.sh
 ```
 
-## Author
-[Dr. Jun Sun](https://github.com/yfiua) @ GESIS
-
 ## Table of contents
 
 ### [Introduction: Node classification in networks](introduction.md)
@@ -82,3 +79,5 @@ Run `prep.sh` to download some datasets that are used in the tutorial. Alternati
 
 ### [Supplementary material: Import a network in PyG](supplementary.ipynb)
 
+## Author
+[Dr. Jun Sun](https://github.com/yfiua) @ GESIS
